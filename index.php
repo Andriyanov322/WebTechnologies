@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title> Главная страница </title>
+<title> Главная страница Андриянова Максима</title>
 	<head>
 		<meta charset="utf-8">
 	</head>
