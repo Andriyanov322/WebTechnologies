@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <title> Главная страница Андриянова Максима</title>
-<table border="0" cellspacing="20">
+<table border="0" cellspacing="30">
 	<head>
 		<meta charset="utf-8">
 	</head>
@@ -9,6 +9,7 @@
    <tr>
     <th align="left">Лабораторная работа №1:</th>
     <th align="left">Лабораторная работа №2:</th>
+	<th align="left">Лабораторная работа №3:</th>
    </tr>
 <tr>
 <td>
@@ -52,6 +53,26 @@
   <li><a href="lab-2/lab-2-4.php">Задача 2-4</a></li>
   <li><a href="lab-2/lab-2-5.php">Задача 2-5</a></li>
   <li><a href="lab-2/lab-2-6.php">Задача 2-6</a></li>
+</ul>
+</td>
+<td style="vertical-align:top">
+<ul>
+  <li><a href="">Упражнение 3-1</a></li>
+  <li><a href="">Упражнение 3-2</a></li>
+  <li><a href="">Упражнение 3-3</a></li>
+  <li><a href="">Упражнение 3-4</a></li>
+  <li><a href="">Упражнение 3-5</a></li>
+  <li><a href="">Упражнение 3-6</a></li>
+  <li><a href="">Упражнение 3-7</a></li>
+</ul>
+<p> Самостоятельная работа </p>
+<ul>
+  <li><a href="">Задача 3-1</a></li>
+  <li><a href="">Задача 3-2</a></li>
+  <li><a href="">Задача 3-3</a></li>
+  <li><a href="">Задание 3-4</a></li>
+  <li><a href="">Задание 3-5</a></li>
+  <li><a href="">Задание 3-6</a></li>
 </ul>
 </td>
 	</body>
