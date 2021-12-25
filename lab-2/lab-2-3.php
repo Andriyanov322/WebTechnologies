@@ -1,4 +1,4 @@
-<title> Янушевич Максим ПИ-322</title>
+<title> Андриянов Максим ПИ-322</title>
 <?php
   
   $arr=array("cnum" => 2001,
