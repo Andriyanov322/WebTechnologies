@@ -64,7 +64,7 @@
   <li><a href="laba-3/f4.html">Упражнение 3-4</a></li>
   <li><a href="laba-3/f5.html">Упражнение 3-5</a></li>
   <li><a href="laba-3/f6.html">Упражнение 3-6</a></li>
-  <li><a href="laba-3/f7.html">Упражнение 3-7</a></li>
+  <li><a href="laba-3/f7.php">Упражнение 3-7</a></li>
 </ul>
 <p> Самостоятельная работа </p>
 <ul>
