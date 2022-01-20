@@ -11,6 +11,8 @@
     <th align="left">Лабораторная работа №1:</th>
     <th align="left">Лабораторная работа №2:</th>
     <th align="left">Лабораторная работа №3:</th>
+	<th align="left">Лабораторная работа №4:</th>
+	<th align="left">Лабораторная работа №5:</th>
    </tr>
 <tr>
 <td>
@@ -76,7 +78,16 @@
     <p><a href="laba-3/s3-6.html" class="current">Задача 3.6</a></p>
 </ul>
 </td>
-        
+<td style="vertical-align:top">
+ <ul>
+  <li><a href="lab-4/index.php">База данных студентов</a></li>
+</ul>
+</td>
+<td style="vertical-align:top">
+ <ul>
+  <li><a href="lab-5/autoriz.php">База данных студентов</a></li>
+</ul>
+</td>  
 </ul>
     </body>
 </html>

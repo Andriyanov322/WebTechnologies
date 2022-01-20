@@ -1,5 +1,6 @@
 <body>
 <title> Андриянов Максим ПИ-322</title>
+<p> Вариант 1 </p>
 <?php
   static $a = array();
   require('Andr.php');

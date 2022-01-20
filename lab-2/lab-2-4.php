@@ -1,4 +1,5 @@
 <title> Андриянов Максим ПИ-322</title>
+<p> Вариант 1 </p>
 <p> Генерация массива из случайных чисел: </p>
 <?php
 function array_fill_rand($limit, $min=-10, $max=10)
@@ -26,27 +27,19 @@ function array_fill_rand($limit, $min=-10, $max=10)
 	return $array;
 }
 
-echo '<pre>';
-
-// Массив из 10 элементов
-$rand_array = array_fill_rand(20);
 
 
+// Массив из 20 элементов
+$a = array_fill_rand(10);
+for ($i=0; $i<10; $i++){
+echo $a[$i] . ' ';}
+for ($i=1; $i<10; $i++){
+	for ($j=0; $j<$i; $j++){
+	$b[$i]+=$a[$j];}}
+	
+$b[0]=$a[0];
+echo "<p> Измененный массив: </p>";
+for ($i=0; $i<10; $i++){
+echo $b[$i] . ' ';}
 
-$counter = 0;
-    for ($n = 0; $n<=count($rand_array) + 1; $n++) {
-        
-        echo $rand_array[$n] . " ";
-    } 
-    echo "<br>";
-    foreach($rand_array as $k){
-        if($k > 0) {
-            $counter++;
-         } else {
-            $max[] = $counter;
-            $counter = 0;
-         }
-    }
-echo '</pre>';
-echo "Максимальное количество подряд идущих положительных элементов: " . max($max);
 ?>
